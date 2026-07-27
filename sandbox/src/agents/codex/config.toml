@@ -1,0 +1,11 @@
+model = "{model_name}"
+model_provider = "zzz"
+
+[model_providers.zzz]
+name = "zzz"
+base_url = "xxx"
+api_key = "xxx"
+wire_api = "{wire_api}"
+
+[projects."xxx"]
+trust_level = "trusted"

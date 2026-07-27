@@ -1,6 +1,4 @@
-# GABench
-
-A benchmark for evaluating graph analysis agents on multi-step reasoning tasks over real-world graph datasets.
+# GABench: A Comprehensive Benchmark for Evaluating LLM Agents on Graph Analysis Tasks
 
 ---
 
